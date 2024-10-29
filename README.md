@@ -2,7 +2,7 @@
 
 A simple Tic Tac Toe game created in Java, where two players alternate between 'X' and 'O' until one of them wins or the game ends in a draw.
 
-## How to Play
+## 🕹️ How to Play
 
 1 - Run the program
 
@@ -12,7 +12,7 @@ A simple Tic Tac Toe game created in Java, where two players alternate between '
 
 4 - The game continues until one player wins or a draw occurs.
 
-## Code Structure
+##  <img align="center" alt="Imagem Java" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> Code Structure 
 
 <h3>Libraries</h3>
   
