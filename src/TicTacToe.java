@@ -25,7 +25,7 @@ public class TicTacToe {
                 switchPlayer();
             }
         }
-        
+
         scanner.close();
     }
 
