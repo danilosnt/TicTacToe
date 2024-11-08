@@ -8,7 +8,7 @@ A simple Tic Tac Toe game created in Java, where two players alternate between '
 
 2 - The game will display the board
 
-3 - Follow the prompts to enter the row and column where you want play, with ranging from 0 to 2.
+3 - Follow the prompts to enter the row and column where you want play, with values ranging from 0 to 2.
 
 4 - The game continues until one player wins or a draw occurs.
 
@@ -28,9 +28,9 @@ A simple Tic Tac Toe game created in Java, where two players alternate between '
 
 * main(String[] args) = Starts the game
 * startBoard() = Initalizes the game board
-* displayBoard() = Display the board in the console
+* displayBoard() = Displays the board in the console
 * makeMove(Scanner scanner) = Receives and validates the player's move
-* switchPlayer() = Switches between players
+* switchPlayer() = Switches the current player
 * checkVictory() = Checks if the current player has won
 * checkDraw() = Checks if the game ended in a draw
 
