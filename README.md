@@ -16,13 +16,13 @@ A simple Tic Tac Toe game created in Java, where two players alternate between '
 
 <h3>Libraries</h3>
   
-* java.util.Scanner = For user input
+* ```java.util.Scanner``` = For user input
 
 <h3>Variables</h3>
 
-* char[][] = Represents the game board
-* char currentPlayer = Indicates the current player ('X' or 'O')
-* Scanner scanner = Used to read user input
+* ```char[][]``` = Represents the game board
+* ```char currentPlayer``` = Indicates the current player ('X' or 'O')
+* ```Scanner scanner``` = Used to read user input
 
 <h3>Methods</h3>
 
