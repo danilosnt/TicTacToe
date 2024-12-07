@@ -36,4 +36,4 @@ A simple Tic Tac Toe game created in Java, where two players alternate between '
 
 <h3>Structures</h3>
 
-* while, if, for = These control flow are essential for making the program work in an interactive and dinamic way
+* ```while```, ```if```, ```for``` = These control flow are essential for making the program work in an interactive and dinamic way
