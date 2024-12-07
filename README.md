@@ -26,13 +26,13 @@ A simple Tic Tac Toe game created in Java, where two players alternate between '
 
 <h3>Methods</h3>
 
-* main(String[] args) = Starts the game
-* startBoard() = Initalizes the game board
-* displayBoard() = Displays the board in the console
-* makeMove(Scanner scanner) = Receives and validates the player's move
-* switchPlayer() = Switches the current player
-* checkVictory() = Checks if the current player has won
-* checkDraw() = Checks if the game ended in a draw
+* ```main(String[] args)``` = Starts the game
+* ```startBoard()``` = Initalizes the game board
+* ```displayBoard()``` = Displays the board in the console
+* ```makeMove(Scanner scanner)``` = Receives and validates the player's move
+* ```switchPlayer()``` = Switches the current player
+* ```checkVictory()``` = Checks if the current player has won
+* ```checkDraw()``` = Checks if the game ended in a draw
 
 <h3>Structures</h3>
 
